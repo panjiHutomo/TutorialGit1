@@ -1,3 +1,4 @@
 NO.REG	: 1820010095
 Nama 	: Ilyas Panji Hutomo 
 Jurusan : TI Reguler
+angkatan: 2018
